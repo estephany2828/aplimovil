@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppEnglish</string>
+    <string name="tituloColores">Colores</string>
+    <string name="tituloAnimales">Animales</string>
+    <string name="tituloFrutas">Frutas</string>
+    <string name="tituloInicio">Bienvenido</string>
+    <string name="btnEntrar">Entrar</string>
+    <string name="textInicioNombre">Tu Nombre</string>
+
+
+</resources>
